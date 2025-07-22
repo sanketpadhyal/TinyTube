@@ -77,7 +77,6 @@ def yt_download(url, fmt, out_dir):
         "format": fmt,
         "outtmpl": outtmpl,
         "quiet": True,
-        # if merging is needed, yt‑dlp will rename the final file
         "merge_output_format": "mkv",
     }
 
