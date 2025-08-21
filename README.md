@@ -1,21 +1,26 @@
 # 🎬 TinyTube – YouTube Downloader  
-**Made with ❤️ by Sanket**
+**Made with ❤️ by Sanket Padhyal**
 
-TinyTube is a sleek and simple YouTube downloader that lets you download high-quality videos or audio from YouTube with ease. It's built using Python, Flask, and `yt-dlp`, and runs locally on your system — no need to deploy or host online.
+**TinyTube** is a sleek and intuitive **YouTube downloader** that allows you to fetch and download high-quality videos or audio from YouTube directly on your local machine.  
+Built with **Python, Flask, `yt-dlp`, HTML, CSS, and JavaScript**, TinyTube combines a modern frontend UI with a powerful backend. Lightweight, offline-ready, and designed for a clean and interactive experience.
+
+---
+
+![🐍 Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)  
+![⚡ Flask](https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge)  
+![💻 Local](https://img.shields.io/badge/Run-Local%20Machine-lightgrey?style=for-the-badge)  
+![🌐 Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blueviolet?style=for-the-badge)  
+![👨‍💻 Author](https://img.shields.io/badge/Author-Sanket%20Padhyal-red?style=for-the-badge)  
 
 ---
 
 ## 🚀 Features
-- 🔍 Paste any YouTube URL and fetch available formats
-- 🎞️ Download videos in 1080p, 720p, etc. with audio
-- 🎧 Download audio-only formats (MP3/AAC/M4A)
-- ⚡ Clean UI with glassmorphism and glow effects
-- ✅ 100% works offline (local machine)
 
----
-
-
-
+- 🔍 **URL-based video fetching:** Paste any YouTube link and retrieve available formats  
+- 🎞️ **Video downloads:** Supports 1080p, 720p, and other resolutions with audio  
+- 🎧 **Audio-only downloads:** Export as MP3, AAC, or M4A  
+- ⚡ **Modern UI:** Built with **HTML, CSS, JS**, featuring glassmorphism and glow effects  
+- ✅ **Offline-ready:** Runs entirely on your local machine, no hosting required  
 
 ---
 
